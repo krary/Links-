@@ -4,3 +4,5 @@ https://youtu.be/mp78PCF601Y?list=PLw8RQJQ8K1ySN6bVHYEpDoh-CKVkL_uOF  <<Este es 
 
 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjB9u6hzLOEAxV5gf0HHV9uBhAQFnoECBoQAQ&url=https%3A%2F%2Fgithub.com%2Fbrannondorsey%2Fnaive-hashcat%2Freleases%2Fdownload%2Fdata%2Frockyou.txt&usg=AOvVaw3snAERl1mU6Ccr4WFEazBd&opi=89978449   <<ESTE ENLACE ES PARA DESCARGAR EL ROCKYOU>>
      nota : otra manera seria escribir rockyou descargar y luego pulsar sobre el enlace de github y esto descargaria el diccionario sin entrar como tal a la pág
+https://youtu.be/8dbpf8BpK8U?list=PLuCqWFFui9c1vfcFlECukslGN3LR-bFQ3 <<Link de Open-CV con el lenguaje C>>
+
