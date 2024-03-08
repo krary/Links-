@@ -22,3 +22,10 @@ LINK PARA LEER TUTORIAL BÁSICO DE OPENCV EN PYTHON
 
 
 
+
+
+
+**********************************************************
+https://docs.python.org/es/3/howto/regex.html#regex-howto
+ESTE ES EL LINK DEL TUTORIAL DE RE EN PYTHON
+************************************""*****************
