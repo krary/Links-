@@ -24,6 +24,14 @@ LINK PARA LEER TUTORIAL BÁSICO DE OPENCV EN PYTHON
 
 
 
+******************************************************
+https://youtu.be/Yzksa_WjnY0
+LINK PARA CONFIGURAR DVWA CON XAMPP 
+*****************************************************
+
+
+
+
 
 **********************************************************
 https://docs.python.org/es/3/howto/regex.html#regex-howto
