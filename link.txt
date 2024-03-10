@@ -21,4 +21,9 @@ LINK PARA LEER TUTORIAL BÁSICO DE OPENCV EN PYTHON
 ****************************************************
 
 
+**********************************************************************************
+https://youtu.be/XTZ9gZ_pHvY?list=PL1UnfB2evouFvcZWbxM7H8dDlEo1VmRms
+LINK SQL INJECTIONS 
+**********************************************************************************
+
 
